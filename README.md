@@ -4,21 +4,26 @@ An EdTech platform for student engagement and academic support.
 
 ## Frontend Setup
 
-This repository contains the initial frontend project structure initialized with React, Vite, and Tailwind CSS.
+This repository contains the frontend project structure initialized with React, Vite, and Tailwind CSS under the `frontend/` directory.
 
 ### Getting Started
 
-1. Install dependencies:
+1. Navigate to the frontend directory:
+   ```bash
+   cd frontend
+   ```
+
+2. Install dependencies:
    ```bash
    npm install
    ```
 
-2. Run the development server:
+3. Run the development server:
    ```bash
    npm run dev
    ```
 
-3. Build for production:
+4. Build for production:
    ```bash
    npm run build
    ```
